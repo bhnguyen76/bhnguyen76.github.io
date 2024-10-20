@@ -461,31 +461,35 @@ img{
 }
 
 .skills__html{
-    width: 90%;
+    width: 60%;
 }
 
 .skills__css{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__js{
-    width: 60%;
+    width: 30%;
 }
 
 .skills__python{
-    width: 90%;
+    width: 70%;
 }
 
 .skills__scala{
-    width: 80%;
+    width: 40%;
 }
 
 .skills__csharp{
-    width: 60%;
+    width: 30%;
+}
+
+.skills__azure{
+    width: 50%;
 }
 
 .skills__sql{
-    width: 50%;
+    width: 30%;
 }
 
 .skills__close .skills__list{
